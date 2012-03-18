@@ -1,35 +1,6 @@
 rstat.us is a microblogging site built on top of the [ostatus
 protocol](http://status.net/wiki/OStatus).
 
-Helping out with rstat.us
--------------------------
-
-If you'd like to contribute, here are some details:
-
-- The stack: ruby/sinatra/mongodb
-- [The code][code]
-- [The documentation][docs] (need lots of improvement here!)
-- [The Issues list][issues]
-- Please fork the project and make a pull request
-  - Pull requests will not be merged without tests/documentation
-    - We use [minitest][minitest]/[capybara][capy] for tests
-    - We use [docco][docco] (rocco) for documentation
-    - If you think it doesn't need a test, make your case, I'm just saying.
-
-[code]: http://github.com/hotsh/rstat.us
-[docs]: http://hotsh.github.com/rstat.us/
-[issues]: http://github.com/hotsh/rstat.us/issues
-[minitest]: https://github.com/seattlerb/minitest
-[capy]: https://github.com/jnicklas/capybara
-[docco]: https://github.com/jashkenas/docco
-
-Source code documentation
--------------------------
-
-We have documentation that explains all of our source code, using rocco.
-You can view it [here](http://hotsh.github.com/rstat.us/rstatus.html).
-
-
 Setting up a dev environment
 ----------------------------
 
